@@ -14,3 +14,9 @@ wordlist.txt
 rspec_results.html
 data/
 vendor/
+
+# for wpscan_batch.sh
+# (https://gist.github.com/opt9/02a0231b62a31cbc38b3028b6bf7dd3e)
+output.tmp
+wpscan_batch.sh
+
